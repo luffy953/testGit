@@ -3,14 +3,15 @@ package com.bcs.git;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("hello git");
-		System.out.println("¸üĞÂ1");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("Ö÷·ÖÖ§Ìí¼Ó");
-		System.out.println("½â¾ö³åÍ»");
-		System.out.println("½â¾ö");
-		System.out.println("·ÖÖ§Ìí¼Ó");
-		System.out.println("µÚ¶ş´ÎÌá½»Ö®Ç°");
-		System.out.println("µÚÈı´ÎÌá½»");
+		System.out.println("æ›´æ–°1");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("ä¸»åˆ†æ”¯æ·»åŠ ");
+		System.out.println("è§£å†³å†²çª");
+		System.out.println("è§£å†³");
+		System.out.println("åˆ†æ”¯æ·»åŠ ");
+		System.out.println("ç¬¬äºŒæ¬¡æäº¤ä¹‹å‰");
+		System.out.println("ç¬¬ä¸‰æ¬¡æäº¤");
+		System.out.println("åœ¨çº¿æ›´æ–°");
 	}
 
 }
